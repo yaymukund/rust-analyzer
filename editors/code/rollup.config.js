@@ -17,6 +17,5 @@ export default {
     output: {
         file: './out/src/main.js',
         format: 'cjs',
-        exports: 'default'
     }
 };
